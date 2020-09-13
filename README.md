@@ -10,7 +10,7 @@ I am a Computer Science Student in Dr. Ambedkar Institute of Technology. I am hi
 - 👯 I’m looking to collaborate on any Machine Learning or Data Science projects.
 - 🤔 I’m looking for help to learn ML and DS better
 - 💬 Ask me about Python, Recommender System and  Machine Learning 
-- 📫 How to reach me: You can contact me directly in my mail [!paudelnishan55@gmail.com](mailto:paudelnishan55@gmail.com)
+- 📫 How to reach me: You can contact me directly in my mail [paudelnishan55@gmail.com](mailto:paudelnishan55@gmail.com)
 - ⚡ Fun fact: Love volleyball but really suck at it
 
 
