@@ -1,7 +1,7 @@
+# Nishan Paudel
+I am a Computer Science Student in Dr. Ambedkar Institute of Technology. I am highly interested in learning Machine Learning.
+
 ### Hi there 👋
-
-
-
 
 
 
@@ -11,7 +11,6 @@
 - 🤔 I’m looking for help to learn ML and DS better
 - 💬 Ask me about Python, Recommender System and  Machine Learning 
 - 📫 How to reach me: You can contact me directly in my mail paudeln
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Love volleyball but really suck at it
 
 
