@@ -1,5 +1,5 @@
 # Nishan Paudel
-I am a Computer Science Student in Dr. Ambedkar Institute of Technology. 
+I am a Software engineer working at Affinsys AI 
 
 [![linkedin](https://github.com/nishan7/nishan7/blob/master/linkedin%20(1).png)](https://www.linkedin.com/in/paudelnishan/)
 &nbsp; &nbsp;
@@ -12,7 +12,7 @@ I am a Computer Science Student in Dr. Ambedkar Institute of Technology.
 
 
 <!-- - 👯 I’m looking to collaborate on any Machine Learning or Data Science projects.  -->
-- 🔭 I’m currently working at Affinsys AI
+- 🔭 I’m currently developing AI enabled banking software.
 - 🌱 I’m currently improving my skill in Software Development & Design
 - 🤔 I’m always looking forward to learn new things. 
 - 💬 Ask me about Python, django and in general software development
