@@ -12,8 +12,8 @@ I am a Software engineer working at Affinsys AI
 
 
 <!-- - 👯 I’m looking to collaborate on any Machine Learning or Data Science projects.  -->
-- 🔭 I’m currently working on high scale notifications system.
-- 🌱 I’m currently improving my skill in Software Development & Large-Scale Systems.
+- 🔭 I’m currently pursuring my Master's at San Jose State Univeristy.
+- 🌱 I’m currently improving my skill in Software Development & Machine Learning.
 - 🤔 I’m always looking forward to learn new things. 
 - 💬 Ask me about python, java and in general software development
 - 📫 How to reach me: You can contact me directly in my mail [paudelnishan55@gmail.com](mailto:paudelnishan55@gmail.com)
