@@ -1,5 +1,5 @@
 # Nishan Paudel
-I am a Software engineer working at Affinsys AI 
+I am a MS student studying at San Jose State University
 
 [![linkedin](https://github.com/nishan7/nishan7/blob/master/linkedin%20(1).png)](https://www.linkedin.com/in/paudelnishan/)
 &nbsp; &nbsp;
@@ -12,7 +12,7 @@ I am a Software engineer working at Affinsys AI
 
 
 <!-- - 👯 I’m looking to collaborate on any Machine Learning or Data Science projects.  -->
-- 🔭 I’m currently pursuring my Master's at San Jose State Univeristy.
+- 🔭 I’m currently pursuring my Master's at San Jose State University.
 - 🌱 I’m currently improving my skill in Software Development & Machine Learning.
 - 🤔 I’m always looking forward to learn new things. 
 - 💬 Ask me about python, java and in general software development
