@@ -10,14 +10,27 @@
 
 
 ### Hi there 👋
-
-
 - 🔭 I’m currently pursuing my Master’s in Software Engineering at **San Jose State University**  
 - 🌱 I’m expanding my expertise in **Artificial Intelligence**, **Machine Learning**, and **Software Development**  
 - 🧠 I enjoy building **data-driven systems**, **AI model deployment pipelines**, and **backend infrastructure for ML applications**  
 - 🤔 I’m always eager to explore emerging technologies in **AI**, **MLOps**, and **Cloud Engineering**  
 - 💬 Ask me about **Python**, **Java**, **machine learning workflows**, or **scalable software systems**  
 - 📫 Reach me at [paudelnishan55@gmail.com](mailto:paudelnishan55@gmail.com)  
-- ⚡ Fun fact: I love volleyball but still can’t manage a consistent serve  
+- ⚡ Fun fact: I love volleyball but still can’t manage a consistent serve
+
+<!-- GitHub stats section -->
+<h2 align="center">
+  📈 GitHub Stats
+</h2>
+
+<p align="center">
+  <!-- GitHub contribution overview -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nishan7&show_icons=true&hide=issues&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <!-- Streak chart to show consistency -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishan7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- Top languages chart -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishan7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 
 
