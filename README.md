@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1E74F7&center=true&vCenter=true&width=800&height=200&lines=Nishan+Paudel;MS+Student+%40+SJSU;Software+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&color=1E74F7&center=true&vCenter=true&width=825&height=200&lines=Hi%2C+I+am+Nishan+Paudel;MS+Student+%40+SJSU;Software+Engineer" alt="Typing SVG" /></a>
 </p>
 
 [![linkedin](https://github.com/nishan7/nishan7/blob/master/linkedin%20(1).png)](https://www.linkedin.com/in/paudelnishan/)
